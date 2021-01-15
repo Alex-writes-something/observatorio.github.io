@@ -1,6 +1,6 @@
 ---
 title: "¿Cuáles son nuestros objetivos?"
-layout: page-sidebar
+layout: page
 permalink: "/about.html"
 image: "/assets/images/about.jpg"
 comments: true
