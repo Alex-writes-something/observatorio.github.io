@@ -27,13 +27,13 @@ authors:
       #email:          wowthemesnet@gmail.com
       #twitter:        https://twitter.com/wowthemesnet
 
-    #jane:
-#      name:           Jane
-#      site:           https://www.wowthemes.net
-#      avatar:         /assets/images/avatar2.jpg
-#      bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
-#      email:          fakemail@gmail.com
-#      twitter:        https://twitter.com/wowthemesnet
+    alex:
+      name:           Jane
+      site:           https://www.alexescribe.xyz
+      avatar:         /assets/images/avatar_alex.jpg
+      bio:            "Liberal chido. Tengo un problema con llamar a toda desigualdad privilegio, pero ahí vamos."
+      email:          m.alex.rmz@gmail.com
+      twitter:        https://twitter.com/alexkonnichiwa
  
 # Defaults
 defaults:
