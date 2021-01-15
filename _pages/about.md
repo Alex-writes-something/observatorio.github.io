@@ -2,6 +2,6 @@
 title: "Acerca del Proyecto"
 layout: page-sidebar
 permalink: "/about.html"
-image: "/assets/images/screenshot.jpg"
+image: "/assets/images/about.jpg"
 comments: true
 ---
