@@ -31,10 +31,10 @@ a,a:hover {
 	text-decoration:none;
 }
 a {
-	color:#03a87c;
+	color:#fdbb30;
 }
 a.text-dark:hover {
-	color:#03a87c !important;
+	color:#fdbb30 !important;
 }
 .c-pointer:hover {
 	cursor:pointer;
@@ -192,14 +192,14 @@ a.text-dark:hover {
 	font-weight:400;
 }
 .navbar .highlight .nav-link {
-	color:#03a87c !important;
-	border:1px solid #03a87c;
+	color:#fdbb30 !important;
+	border:1px solid #fdbb30;
 	padding:0.3rem 1rem;
 	border-radius:3px;
 	font-size:.93rem;
 }
 .navbar .highlight .nav-link:hover {
-	background:#03a87c;
+	background:#fdbb30;
 	color:#fff !important;
 }
 .navbar-brand {
